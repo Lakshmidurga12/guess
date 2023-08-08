@@ -1,0 +1,24 @@
+body{
+    background-image: url('number.jpg');
+}
+.container{
+    
+    text-align: center;
+    font-size: large;
+    margin-top: 200px;
+   
+
+}
+.container p{
+    color:blue;
+    font-size:xx-large;
+    
+}
+.container h2{
+    color: black;
+    font-size: xx-large;
+    margin-bottom: 50px;
+}
+#myimg{
+    height: 100px;
+}
